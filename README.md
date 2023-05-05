@@ -26,6 +26,7 @@ sklearn predictions and testing accuracy scores of various stocks. 1 indicates a
   1. BAC
     
     <img src="https://github.com/andrewlye/python-financial-analysis/blob/main/sample-outputs/pred-BAC.png" width=50% height=50%>
+  
   2. TSLA
     
     <img src="https://github.com/andrewlye/python-financial-analysis/blob/main/sample-outputs/pred-TSLA.png" width=50% height=50%>
