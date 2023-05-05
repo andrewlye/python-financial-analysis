@@ -25,7 +25,7 @@ Comparison between the prices of two inversely related stocks over the past year
 sklearn predictions and testing accuracy scores of various stocks. 1 indicates a buy, -1 indicates a sell, and 0 indicates a hold.  
   1. BAC
     
-    <img src="https://github.com/andrewlye/python-financial-analysis/blob/main/sample-outputs/pred-BAC.png" width=50% height=50%>
+<img src="https://github.com/andrewlye/python-financial-analysis/blob/main/sample-outputs/pred-BAC.png" width=50% height=50%>
   
   2. TSLA
     
