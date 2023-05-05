@@ -22,20 +22,24 @@ Comparison between the prices of two inversely related stocks over the past year
 <img src="https://github.com/andrewlye/python-financial-analysis/blob/main/sample-outputs/MHK.png" width=40% height=40%> <img src="https://github.com/andrewlye/python-financial-analysis/blob/main/sample-outputs/CEG.png" width=40% height=40%>
 </p>
 
-sklearn predictions and testing accuracy scores of various stocks. 1 indicates a buy, -1 indicates a sell, and 0 indicates a hold.  
+sklearn predictions and testing accuracy scores of various stocks. In the predicted spread: 1 indicates a buy, -1 indicates a sell, and 0 indicates a hold. A higher count of a predicted outcome demonstrates the makeup of the stock's expected trend.  
+  
   1. BAC
     
 <img src="https://github.com/andrewlye/python-financial-analysis/blob/main/sample-outputs/pred-BAC.png" width=50% height=50%>
   
   2. TSLA
     
-    <img src="https://github.com/andrewlye/python-financial-analysis/blob/main/sample-outputs/pred-TSLA.png" width=50% height=50%>
+<img src="https://github.com/andrewlye/python-financial-analysis/blob/main/sample-outputs/pred-TSLA.png" width=50% height=50%>
+  
   3. MHK
     
-    <img src="https://github.com/andrewlye/python-financial-analysis/blob/main/sample-outputs/pred-MHK.png" width=50% height=50%>
+<img src="https://github.com/andrewlye/python-financial-analysis/blob/main/sample-outputs/pred-MHK.png" width=50% height=50%>
+  
   4. AAPL
     
-    <img src="https://github.com/andrewlye/python-financial-analysis/blob/main/sample-outputs/pred-AAPL.png" width=50% height=50%>
+<img src="https://github.com/andrewlye/python-financial-analysis/blob/main/sample-outputs/pred-AAPL.png" width=50% height=50%>
+  
   5. AMZN
     
-    <img src="https://github.com/andrewlye/python-financial-analysis/blob/main/sample-outputs/pred-AMZN.png" width=50% height=50%>
+<img src="https://github.com/andrewlye/python-financial-analysis/blob/main/sample-outputs/pred-AMZN.png" width=50% height=50%>
