@@ -3,4 +3,4 @@ An initial dive into leveraging python and its machine learning capabilities to 
 
 ### Sample Outputs
 Tesla stock price history, mapped via matplotlib. The top graph plots adjusted closes (red) and 100-day Moving Averages. The bottom graph indicates volume.
-![tsla-100ma](sample-outputs/tsla-100ma.png | width=100)
+<img src="https://github.com/andrewlye/python-financial-analysis/blob/main/sample-outputs/tsla-100ma.png" width=50% height=50%>
